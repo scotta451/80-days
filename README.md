@@ -13,3 +13,5 @@ Here's my first commit.
 Here's my second commit. In this VCS commit, I will fix 80D-1
 
 Here's my third commit. In this VCS extended description, I will apply a comment and use a command
+
+OK - trying again. This should add a comment to issue 80D-3
