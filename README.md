@@ -22,3 +22,4 @@ Now I changed my email address to match YouTrack and TeamCity. Ready to pull.
 YASS YASSS YASSSS I got pro support from Volfman
 OK - didn't work. Now I added my vcs username to my Hub profile. Let's see what happens
 Still shitty - now I added my GitHub VCS username to my TeamCity profile. Let's see.
+NOOOOO ok now I know to put comments on their own line - let's see.
