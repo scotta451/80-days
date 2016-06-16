@@ -20,3 +20,4 @@ Now with Issue Tracker enabled in TeamCity - here be go from test 1.
 
 Now I changed my email address to match YouTrack and TeamCity. Ready to pull.
 YASS YASSS YASSSS I got pro support from Volfman
+OK - didn't work. Now I added my vcs username to my Hub profile. Let's see what happens
