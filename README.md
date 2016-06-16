@@ -23,3 +23,4 @@ YASS YASSS YASSSS I got pro support from Volfman
 OK - didn't work. Now I added my vcs username to my Hub profile. Let's see what happens
 Still shitty - now I added my GitHub VCS username to my TeamCity profile. Let's see.
 NOOOOO ok now I know to put comments on their own line - let's see.
+Now we'll fix 80D-1 and try two lines of comments. Ohhhh yeah
