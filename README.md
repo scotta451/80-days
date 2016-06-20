@@ -18,3 +18,4 @@ Now let's do this again with both 2 and 3 and see how it goes.
 We're going to update this right in the master branch and see what happens.
 Gonna fix 80D-3 directly through the GitHub integration
 That didn't work - let's try in a pull request...
+We have to do this again - my email account wasn't in the 80d project.
