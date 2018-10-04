@@ -24,3 +24,4 @@ Added GitHub VCS uersname to profile in YouTrack
 Oh man would be nice if this worked
 So I've linked the VCS commit to the issue, but the user is not recognized and the additional text is added to the VCS commit.
 I've updated the settings in the integration to parse commits for comment text.
+Great - was having a conflict with a VCS username for a banned user. Nice
