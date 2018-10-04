@@ -26,3 +26,4 @@ So I've linked the VCS commit to the issue, but the user is not recognized and t
 I've updated the settings in the integration to parse commits for comment text.
 Great - was having a conflict with a VCS username for a banned user. Nice
 Disabled the Bitbucket integration just in case there was a conflict - even though it's attached to a different project
+Removed email address from another banned user account just in case 
